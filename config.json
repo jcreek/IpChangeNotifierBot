@@ -1,0 +1,9 @@
+{
+  "discord_user_id": "*your id goes here*",
+  "elasticsearch" : {
+    "elasticsearch_address" : "*your elasticsearch address goes here*"
+  },
+  "github_url" : "https://github.com/jcreek/IpChangeNotifierBot",
+  "prefix": "?",
+  "token": "*your token goes here*"
+}
